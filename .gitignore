@@ -1,1 +1,13 @@
-\app\ml_model\my_smoke_detector_model.keras
+.\app\ml_model\my_DUAL_PATH_model.keras
+
+# ML Models
+*.keras
+*.h5
+
+# Python
+venv/
+.env
+__pycache__/
+
+# OS files
+.DS_Store
